@@ -75,7 +75,7 @@ input {
 }
 
 .x-deluge-all {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/all.png);
+  background-image: url(images/all.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -86,7 +86,7 @@ input {
 .x-deluge-downloading,
 .x-btn .x-deluge-downloading,
 .x-deluge-peer {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/dling.png);
+  background-image: url(images/dling.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -98,7 +98,7 @@ input {
 .x-btn .x-deluge-seeding,
 .deluge-torrents .seeding,
 .x-deluge-seed {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/uling.png);
+  background-image: url(images/uling.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -109,7 +109,7 @@ input {
 .x-deluge-active,
 .x-deluge-traffic,
 .x-btn .x-deluge-traffic {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/active.png);
+  background-image: url(images/active.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -120,7 +120,7 @@ input {
 .x-deluge-paused,
 .x-btn .x-deluge-paused,
 .deluge-torrents .paused {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/paused.png);
+  background-image: url(images/paused.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -131,7 +131,7 @@ input {
 .x-deluge-queued,
 .x-btn .x-deluge-queued,
 .deluge-torrents .queued {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/queued.png);
+  background-image: url(images/queued.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -141,7 +141,7 @@ input {
 
 .x-deluge-checking,
 .deluge-torrents .checking {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/checking.png);
+  background-image: url(images/checking.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -153,7 +153,7 @@ input {
 .deluge-torrents .error,
 .icon-error,
 .x-not-connected {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/error.png) !important;
+  background-image: url(images/error.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -162,7 +162,7 @@ input {
 }
 
 .icon-ok {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/ok.png) !important;
+  background-image: url(images/ok.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -172,7 +172,7 @@ input {
 
 .x-deluge-connections,
 .x-btn .x-deluge-connections {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/connections.png) !important;
+  background-image: url(images/connections.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -182,7 +182,7 @@ input {
 
 .x-deluge-freespace,
 .x-btn .x-deluge-freespace {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/harddrive.png) !important;
+  background-image: url(images/harddrive.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -191,7 +191,7 @@ input {
 }
 
 .icon-move {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/move.png) !important;
+  background-image: url(images/move.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -202,7 +202,7 @@ input {
 .icon-recheck,
 .x-deluge-find-more,
 .x-btn .x-deluge-find-more {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/search.png) !important;
+  background-image: url(images/search.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -214,7 +214,7 @@ input {
 .icon-edit,
 .x-deluge-edit-trackers,
 .x-btn .x-deluge-edit-trackers {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/edit.png) !important;
+  background-image: url(images/edit.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -223,7 +223,7 @@ input {
 }
 
 .xg-hmenu-sort-asc .x-menu-item-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/ascending.png) !important;
+  background-image: url(images/ascending.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -232,7 +232,7 @@ input {
 }
 
 .xg-hmenu-sort-desc .x-menu-item-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/descending.png) !important;
+  background-image: url(images/descending.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -241,7 +241,7 @@ input {
 }
 
 .icon-update-tracker {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/update.png) !important;
+  background-image: url(images/update.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -251,7 +251,7 @@ input {
 
 .icon-queue,
 .icon-upload-slots {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/queue.png) !important;
+  background-image: url(images/queue.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -261,7 +261,7 @@ input {
 
 .x-deluge-install-plugin,
 .x-btn .x-deluge-install-plugin {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/plugin.png) !important;
+  background-image: url(images/plugin.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -270,7 +270,7 @@ input {
 }
 
 .x-deluge-connect-window-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/connection_small.png) !important;
+  background-image: url(images/connection_small.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -279,7 +279,7 @@ input {
 }
 
 .x-deluge-connect-window-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/connection_small.png) !important;
+  background-image: url(images/connection_small.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -288,7 +288,7 @@ input {
 }
 
 .x-deluge-connect-window-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/connection_small.png) !important;
+  background-image: url(images/connection_small.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -297,7 +297,7 @@ input {
 }
 
 .icon-top {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/top.png) !important;
+  background-image: url(images/top.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -306,7 +306,7 @@ input {
 }
 
 .icon-bottom {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/bottom.png) !important;
+  background-image: url(images/bottom.png) !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -527,172 +527,172 @@ textarea.x-form-inner-invalid {
 }
 
 .x-panel-tbar .icon-add {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/add.png)
+  background: url(images/add.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .x-panel-tbar .icon-add:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/add.png)
+  background: url(images/add.png)
     no-repeat 0 -24px !important;
 }
 
 .x-panel-tbar .icon-add:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/add.png)
+  background: url(images/add.png)
     no-repeat 1px -23px !important;
 }
 
 .x-panel-bbar .icon-add {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/add_small.png)
+  background: url(images/add_small.png)
     no-repeat 0 0 !important;
 }
 
 .x-panel-tbar .icon-remove {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/remove.png)
+  background: url(images/remove.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .x-panel-tbar .icon-remove:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/remove.png)
+  background: url(images/remove.png)
     no-repeat 0 -24px !important;
 }
 
 .x-panel-tbar .icon-remove:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/remove.png)
+  background: url(images/remove.png)
     no-repeat 1px -23px !important;
 }
 
 .x-panel-bbar .icon-remove {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/remove_small.png)
+  background: url(images/remove_small.png)
     no-repeat 0 0 !important;
 }
 
 .x-panel-tbar .icon-pause {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/pause.png)
+  background: url(images/pause.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .x-panel-tbar .icon-pause:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/pause.png)
+  background: url(images/pause.png)
     no-repeat 0 -24px !important;
 }
 
 .x-panel-tbar .icon-pause:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/pause.png)
+  background: url(images/pause.png)
     no-repeat 1px -23px !important;
 }
 
 .x-menu-item .icon-pause {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/paused.png)
+  background: url(images/paused.png)
     no-repeat 0 0 !important;
 }
 
 .x-panel-tbar .icon-resume {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/resume.png)
+  background: url(images/resume.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .x-panel-tbar .icon-resume:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/resume.png)
+  background: url(images/resume.png)
     no-repeat 0 -24px !important;
 }
 
 .x-panel-tbar .icon-resume:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/resume.png)
+  background: url(images/resume.png)
     no-repeat 1px -23px !important;
 }
 
 .x-menu-item .icon-resume {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/resume_small.png)
+  background: url(images/resume_small.png)
     no-repeat 0 0 !important;
 }
 
 .icon-remove {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/remove_small.png)
+  background: url(images/remove_small.png)
     no-repeat 0 0 !important;
 }
 
 .x-panel-tbar .icon-up {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/up.png)
+  background: url(images/up.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .x-panel-tbar .icon-up:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/up.png)
+  background: url(images/up.png)
     no-repeat 0 -24px !important;
 }
 
 .x-panel-tbar .icon-up:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/up.png)
+  background: url(images/up.png)
     no-repeat 1px -23px !important;
 }
 
 .icon-up {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/up_small.png)
+  background: url(images/up_small.png)
     no-repeat 0 0 !important;
 }
 
 .x-panel-tbar .icon-down {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/down.png)
+  background: url(images/down.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .x-panel-tbar .icon-down:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/down.png)
+  background: url(images/down.png)
     no-repeat 0 -24px !important;
 }
 
 .x-panel-tbar .icon-down:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/down.png)
+  background: url(images/down.png)
     no-repeat 1px -23px !important;
 }
 
 .icon-down {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/down_small.png)
+  background: url(images/down_small.png)
     no-repeat 0 0 !important;
 }
 
 .x-btn .x-deluge-preferences {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/settings.png)
+  background: url(images/settings.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .x-btn .x-deluge-preferences:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/settings.png)
+  background: url(images/settings.png)
     no-repeat 0 -24px !important;
 }
 
 .x-btn .x-deluge-preferences:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/settings.png)
+  background: url(images/settings.png)
     no-repeat 1px -23px !important;
 }
 
 .x-deluge-preferences {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/settings_small.png)
+  background: url(images/settings_small.png)
     no-repeat 0 4px !important;
 }
 
 .icon-options {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/settings_small.png)
+  background: url(images/settings_small.png)
     no-repeat 0 0px !important;
 }
 
 .x-deluge-connection-manager,
 .x-btn .x-deluge-connection-manager {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/connection.png)
+  background: url(images/connection.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
@@ -700,52 +700,52 @@ textarea.x-form-inner-invalid {
 
 .x-deluge-connection-manager:hover,
 .x-btn .x-deluge-connection-manager:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/connection.png)
+  background: url(images/connection.png)
     no-repeat 0 -24px !important;
 }
 
 .x-deluge-connection-manager:active,
 .x-btn .x-deluge-connection-manager:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/connection.png)
+  background: url(images/connection.png)
     no-repeat 1px -23px !important;
 }
 
 .icon-help {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/help.png)
+  background: url(images/help.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .icon-help:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/help.png)
+  background: url(images/help.png)
     no-repeat 0 -24px !important;
 }
 
 .icon-help:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/help.png)
+  background: url(images/help.png)
     no-repeat 1px -23px !important;
 }
 
 .icon-logout {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/logout.png)
+  background: url(images/logout.png)
     no-repeat 0 0 !important;
   width: 24px !important;
   overflow: hidden;
 }
 
 .icon-logout:hover {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/logout.png)
+  background: url(images/logout.png)
     no-repeat 0 -24px !important;
 }
 
 .icon-logout:active {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/logout.png)
+  background: url(images/logout.png)
     no-repeat 1px -23px !important;
 }
 
 .x-deluge-main-panel {
-  background: url(https://halianelf.github.io/Deluge-Dark/images/deluge.png)
+  background: url(images/deluge.png)
     no-repeat 0 0 !important;
   padding-left: 30px !important;
 }
@@ -1057,7 +1057,7 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-cols-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/columns.png);
+  background-image: url(images/columns.png);
 }
 
 .x-grid-empty {
@@ -1118,15 +1118,15 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-tree-node-expanded .x-tree-node-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/folder.png);
+  background-image: url(images/folder.png);
 }
 
 .x-tree-node-leaf .x-tree-node-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/file.png);
+  background-image: url(images/file.png);
 }
 
 .x-tree-node-collapsed .x-tree-node-icon {
-  background-image: url(https://halianelf.github.io/Deluge-Dark/images/folder.png);
+  background-image: url(images/folder.png);
 }
 
 .x-tree-node .x-tree-node-inline-icon {
